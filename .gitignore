@@ -1,2 +1,5 @@
 data/*
 !data/PLACEHOLDER
+notebooks/*
+!notebooks/PLACEHOLDER
+**/__pycache__/
