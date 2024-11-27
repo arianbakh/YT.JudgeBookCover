@@ -3,3 +3,5 @@ data/*
 notebooks/*
 !notebooks/PLACEHOLDER
 **/__pycache__/
+models/*
+!models/PLACEHOLDER

@@ -8,3 +8,4 @@
 # Usage
 
 1. `python populate_db.py --data-dir data/dataset_v3`
+2. `python detect_objects.py --model models/yolo11x.pt --bs 128`
